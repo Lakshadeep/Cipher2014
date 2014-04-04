@@ -1,14 +1,13 @@
 
 
 
-
                                                #define 
                                               pn = 0 #i
                                              ncludecConio
                                             #include<std
                                            lib.h>int p; //
- 		                                     recurs       ive sol
-		                                    ution          for sub
+ 		                          recurs       ive sol
+		                        ution          for sub
                                       set s             um prob
                                      lem#i               nclude<s
                                     tdio.h>               typedef
